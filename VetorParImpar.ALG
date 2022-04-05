@@ -1,7 +1,7 @@
 Algoritmo "VetorParImpar"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Disciplina  :  [Linguagem e Lï¿½gica de Programaï¿½ï¿½o] 
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descriï¿½ï¿½o   : Aqui vocï¿½ descreve o que o programa faz! (funï¿½ï¿½o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 02/06/2021
 Var
@@ -12,6 +12,7 @@ Var
 
 
 Inicio
+     escreval("OlÃ¡ mundo! Vim para ser o melhor programador do mundo!")
       para posi de 0 ate 19 faca
            escreval("Informe um valor")
            leia(numeros[posi])
@@ -35,7 +36,7 @@ Inicio
        para posiP de 0 ate 19 faca
             escreval(par[posiP])
        fimpara
-       escreval("Vetor de ímpares")
+       escreval("Vetor de ï¿½mpares")
        para posiIm de 0 ate 19 faca
            escreval(impar[posiIm])
        fimpara
