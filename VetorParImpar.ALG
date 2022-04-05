@@ -12,7 +12,6 @@ Var
 
 
 Inicio
-     escreval("Olá mundo! Vim para ser o melhor programador do mundo!")
       para posi de 0 ate 19 faca
            escreval("Informe um valor")
            leia(numeros[posi])
